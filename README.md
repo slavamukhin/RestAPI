@@ -1,5 +1,5 @@
 
-##REST-сервис для юзеров на Koa.JS + Mongoose
+## REST-сервис для юзеров на Koa.JS + Mongoose
 
 * User имеет уникальный email, а также даты создания и модификации и имя displayName.
 
